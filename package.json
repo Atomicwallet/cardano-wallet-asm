@@ -36,7 +36,8 @@
   ],
   "description": "Cardano Wallet, from rust to JS via Wasm",
   "files": [
-    "cardano_wallet_browser_bg.wasm",
+    "cardano_wallet_browser.asm.js",
+    "cardano_wallet_browser_bg.js",
     "cardano_wallet_browser.js",
     "cardano_wallet_browser.d.ts",
     "LICENSE_APACHE",
