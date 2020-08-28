@@ -1,0 +1,56 @@
+{
+  "_args": [
+    [
+      "cardano-wallet-browser@1.2.2",
+      "/Users/dractw/Projects/atomic-core"
+    ]
+  ],
+  "_from": "cardano-wallet-browser@1.2.2",
+  "_id": "cardano-wallet-browser@1.2.2",
+  "_inBundle": false,
+  "_integrity": "sha512-KogurUQeo/jiaHkB+TJygawTHPMPVjLvj8c5OjnxS7jQL7mTAqwMnrWrsFYX0iBb6mqFy5DhwNR4Kco/RoLMaQ==",
+  "_location": "/cardano-wallet-browser",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cardano-wallet-browser@1.2.2",
+    "name": "cardano-wallet-browser",
+    "escapedName": "cardano-wallet-browser",
+    "rawSpec": "1.2.2",
+    "saveSpec": null,
+    "fetchSpec": "1.2.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cardano-wallet-browser/-/cardano-wallet-browser-1.2.2.tgz",
+  "_spec": "1.2.2",
+  "_where": "/Users/dractw/Projects/atomic-core",
+  "bugs": {
+    "url": "https://github.com/input-output-hk/js-cardano-wasm/issues"
+  },
+  "collaborators": [
+    "Nicolas Di Prima <nicolas.diprima@iohk.io>",
+    "Sebastien Guillemot <sebastien@emurgo.io>"
+  ],
+  "description": "Cardano Wallet, from rust to JS via Wasm",
+  "files": [
+    "cardano_wallet_browser_bg.wasm",
+    "cardano_wallet_browser.js",
+    "cardano_wallet_browser.d.ts",
+    "LICENSE_APACHE",
+    "LICENSE_MIT"
+  ],
+  "homepage": "https://github.com/input-output-hk/js-cardano-wasm#README.md",
+  "license": "MIT OR Apache-2.0",
+  "module": "cardano_wallet_browser.js",
+  "name": "cardano-wallet-browser",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/input-output-hk/js-cardano-wasm.git"
+  },
+  "sideEffects": "false",
+  "types": "cardano_wallet_browser.d.ts",
+  "version": "1.2.2"
+}
